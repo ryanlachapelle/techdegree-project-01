@@ -217,7 +217,7 @@
   border: solid 3px black;
 }
 
-section .contact-image {
+.contact-image {
   margin-top: 50px;
   width: 600px;
   height: 300px;
