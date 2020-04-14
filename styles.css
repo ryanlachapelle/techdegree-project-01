@@ -112,7 +112,7 @@
     margin: 2px;
   }
   
-  .skills li:nth-child(odd) {
+  .skills li:nth-child(3) {
     background: darkgreen;
   }
   
